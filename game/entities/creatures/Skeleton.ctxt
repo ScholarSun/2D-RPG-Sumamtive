@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=handler\ x\ y
+comment0.target=Skeleton(game.Handler,\ float,\ float)
+comment1.params=
+comment1.target=void\ tick()
+comment2.params=
+comment2.target=void\ checkAttacks()
+comment3.params=
+comment3.target=void\ die()
+comment4.params=
+comment4.target=void\ getInput()
+comment5.params=g
+comment5.target=void\ render(java.awt.Graphics)
+comment6.params=
+comment6.target=java.awt.image.BufferedImage\ getCurrentAnimationFrame()
+numComments=7

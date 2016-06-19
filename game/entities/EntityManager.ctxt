@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=int\ compare(Entity,\ Entity)
+comment1.params=handler\ player
+comment1.target=EntityManager(game.Handler,\ creatures.Player)
+comment10.params=entities
+comment10.target=void\ setEntities(java.util.ArrayList)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=g
+comment3.target=void\ render(java.awt.Graphics)
+comment4.params=e
+comment4.target=void\ addEntity(Entity)
+comment5.params=
+comment5.target=game.Handler\ getHandler()
+comment6.params=handler
+comment6.target=void\ setHandler(game.Handler)
+comment7.params=
+comment7.target=creatures.Player\ getPlayer()
+comment8.params=player
+comment8.target=void\ setPlayer(creatures.Player)
+comment9.params=
+comment9.target=java.util.ArrayList\ getEntities()
+numComments=11

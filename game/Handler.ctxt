@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=Handler(Game)
+comment1.params=
+comment1.target=int\ getWidth()
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=Game\ getGame()
+comment4.params=game
+comment4.target=void\ setGame(Game)
+numComments=5
